@@ -1,3 +1,5 @@
+package side;
+
 public class GetGradeCap {
     public static double getGradeCap(String grade) {
         double cap = 0;

@@ -1,3 +1,5 @@
+package side;
+
 public class GradeHelper {
     public static void main(String[] args) {
         String grade = args[0];

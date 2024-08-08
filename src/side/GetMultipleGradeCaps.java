@@ -1,3 +1,5 @@
+package side;
+
 public class GetMultipleGradeCaps {
     public static double[] getMultipleGradeCaps(String[] grades) {
         double[] caps = new double[grades.length];
